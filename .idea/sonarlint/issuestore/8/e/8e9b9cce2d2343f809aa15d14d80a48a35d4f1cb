@@ -1,0 +1,14 @@
+
+>
+java:S1604?"(Make this anonymous inner class a lambda(ğÁËî
+Q	java:S125"<This block of commented-out lines of code should be removed.(®êéæ
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(—×³ûÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ç­¸ºøÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(‚öÁüÿÿÿÿ
+W
+java:S32529"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¬ğû
+V	java:S125H"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+@
+java:S1068	"*Remove this unused "panel1" private field.(–¾Ê‰

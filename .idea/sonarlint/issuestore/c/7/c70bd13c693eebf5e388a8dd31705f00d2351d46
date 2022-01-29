@@ -1,0 +1,46 @@
+
+h
+java:S2095}"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‡‰º®ùÿÿÿÿ
+i
+java:S2095p"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.( Ä¿úÿÿÿÿ
+e
+java:S2095~"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ö·Ï®
+f
+java:S2095q"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¤Š¢¨
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÚÌàşÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(×ë³l
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÜïäÑşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ºŸõÚ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(å¨üÀüÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ö¤Û‘
+7	java:S1310""Add a default case to this switch.(¨ÕÉ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(”³”ûÿÿÿÿ
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(ƒÕ™f
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ç«…±ÿÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ß‰å”ÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÁûúÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(´òŞ—ùÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(ª®ÙÁşÿÿÿÿ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(¦¨Ş
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(¥£Ó•üÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(£»Æ¾
+@
+java:S2140Ğ")Use "java.util.Random.nextInt()" instead.(àïå…
+@
+java:S2140ä")Use "java.util.Random.nextInt()" instead.(€åÙ¯
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(³ñÏä
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(­Àõ©
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(Î§Öä
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ç«…±ÿÿÿÿÿ
+@
+java:S2140Š")Use "java.util.Random.nextInt()" instead.(Ã×Ê
+E
+java:S2140‹")Use "java.util.Random.nextInt()" instead.(ÇöÙŸûÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ğ§d
+G
+java:S1481¢"0Remove this unused "printFormat" local variable.(¶ó˜™
+D
+java:S1068")Remove this unused "input" private field.(´³¾¸øÿÿÿÿ

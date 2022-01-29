@@ -1,0 +1,12 @@
+
+<
+java:S1948"&Make "rows" transient or serializable.(ÀªÖ
+V	java:S125"<This block of commented-out lines of code should be removed.(Œœ¨¼üÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(Óª¶
+d
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+X
+java:S3252˜"AUse static access with "javax.swing.SwingConstants" for "CENTER".(İÑë‚
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(º¤
+>
+java:S1068"(Remove this unused "rows" private field.(ÀªÖ

@@ -1,0 +1,17 @@
+
+X
+java:S1854,"6Remove this useless assignment to local variable "f2".(ûî®ˆúÿÿÿÿ8Ù“‚ÊÛ/
+S
+java:S1854"8Remove this useless assignment to local variable "list".(¤³Ø…üÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+Q	java:S125"<This block of commented-out lines of code should be removed.(©þ¢÷
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒÈ¯8ñûÊÛ/
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒÈ¯8‡¹¤ËÛ/
+]	java:S125"<This block of commented-out lines of code should be removed.(«ÐñÌùÿÿÿÿ8÷ö£ËÛ/
+V	java:S125+"<This block of commented-out lines of code should be removed.(ðã…Ðþÿÿÿÿ
+X	java:S125-"<This block of commented-out lines of code should be removed.(ê»œ„8æ“‚ÊÛ/
+D
+java:S1481")Remove this unused "list" local variable.(¤³Ø…üÿÿÿÿ
+I
+java:S1481,"'Remove this unused "f2" local variable.(ûî®ˆúÿÿÿÿ8ê“‚ÊÛ/

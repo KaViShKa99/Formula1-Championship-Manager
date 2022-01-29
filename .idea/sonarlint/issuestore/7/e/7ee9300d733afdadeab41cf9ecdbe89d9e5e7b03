@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëú£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(‰ñîÇıÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(‰€²Ìùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+\
+java:S11262"AReplace this if-then-else statement by a single return statement.(Û£Ğ×ıÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(‰€²Ìùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ô³š×úÿÿÿÿ
+X
+java:S1854N"=Remove this useless assignment to local variable "inputDate".(Ÿ‰•¢ÿÿÿÿÿ
+D
+java:S1481K".Remove this unused "inputDate" local variable.(Ü»»Ÿ
